@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="change_languange">Change Languange Settings</string>
+    <string name="nav_movie">Movies</string>
+    <string name="nav_tv_show">Tv Shows</string>
+    <string name="overview">Overview :</string>
+    <string name="release_date">Release Date :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hai_movie">Fragment Movie</string>
+    <string name="hai_tv">Fragment Tv Show</string>
+    <string name="the_tittle">The Tittle</string>
+    <string name="the_detail">The Detail</string>
+    <string name="_1_xxxxxxxx_xxxx">1 XXXXXXXX XXXX</string>
+    <string name="little_tittle">Little Tittle</string>
+    <string name="little_detail">Little Detail</string>
+</resources>
